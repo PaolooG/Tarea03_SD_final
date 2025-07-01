@@ -97,8 +97,7 @@ python3 processing/carga_a_elasticsearch.py
 2. Crea los index patterns:
    - conteo_por_tipo
    - conteo_por_comuna
-   - conteo_por_fecha
-   - frecuencia_claves  
+   - conteo_por_fecha 
 3. Ve a Visualize → Create visualization  
 4. Crea gráficos de barras y líneas para cada índice  
 5. Agrúpalos en un dashboard completo  
@@ -108,7 +107,6 @@ python3 processing/carga_a_elasticsearch.py
 ## 📈 Resultados Esperados
 
 - Gráficos de eventos por tipo, comuna y fecha  
-- Métricas de Redis (hit rate > 98%)  
 - Dashboard interactivo  
 - Datos sintéticos realistas y bien distribuidos  
 
